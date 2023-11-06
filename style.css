@@ -1,0 +1,17 @@
+body{
+    margin: 10px 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.image img {
+    width: 80vh;
+    height: 50vh;
+}
+
+.quote{
+    line-height: 35px;
+    color: rgb(41, 40, 40);
+    border: 2px solid rgb(128, 123, 123S);
+    margin: 10px;
+}
